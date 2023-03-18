@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3SCpZWAqi85JWBMpmpp6E35Lwaak9I/rIdUzM+45pBOswXbtxzBWb5NqQu6VMCjrH8dMUeWHsbwzTsQ0Lp7eLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arisn\\Escritorio\\EstudianteSorpresa\\EstudianteSorpresa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arisn\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Arisn\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Arisn\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
